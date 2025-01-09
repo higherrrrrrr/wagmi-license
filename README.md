@@ -6,11 +6,13 @@ The WAGMI ("We're All Gonna Make It") License is an MIT-compatible open source l
 
 To use the WAGMI License in your project:
 
-1. Copy the `LICENSE` file to your project
+1. Copy the `LICENSE` file to your project with the contents of the file `wagmi-license/LICENSE`
 2. Update the copyright line with your details:
    ```
    Copyright (c) [Year] [Your Name]
    ```
+
+
 
 ## Features
 
